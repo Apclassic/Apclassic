@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apclassic
 - 👀 I’m interested in ...learning front-end developement.
 - 🌱 I’m currently learning ...HTML,CSS, and Javascript. 
-- 💞️ I’m looking to collaborate on ...any open source websites wether they are beginner or more intermediate, i am also looking to get my feet wet in back-end frameworks such as node.js
+- 💞️ I’m looking to collaborate on ...any open source websites wether they are beginner or more intermediate, i am also looking to get my feet wet in front-end libraries. 
 - 📫 How to reach me ...through my Github account or you can find me on linkdin. 
 
 <!---
